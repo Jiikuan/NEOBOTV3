@@ -1,12 +1,12 @@
 { 
-   "success": "Berhasil",
-   "admin": "Fitur Khusus Admin Group!",
-   "botAdmin": "Bot Harus Menjadi Admin Terlebih Dahulu!",
-   "owner": "Fitur Khusus Owner Bot",
+   "success": "Success|Zykuan",
+   "admin": "Luwh atmin bukan ? Tch",
+   "botAdmin": "Bot bukan admin jir, mana bisa fiturnya",
+   "owner": "Luwh owner kah ? AwokAwok",
    "group": "Fitur Digunakan Hanya Untuk Group!",
    "private": "Fitur Digunakan Hanya Untuk Private Chat!",
    "bot": "Fitur Khusus Pengguna Nomor Bot",
-   "wait": "Tunggu sebentar, sedang di proses",
+   "wait": "```Wait, Sabar...```",
    "premier": "Fitur Ini Khusus User Premium\nMau Jadi User Premium Chat Owner",
    "endLimit": "Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12"
 }
