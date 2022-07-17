@@ -10,9 +10,7 @@ return `
 exports.txtDonate = (prefix) => {
 return `
 ▷_*DONASI BOT*_
- _- DANA : 08xxxxxxxx_
- _- OVO : 08xxxxxxxx_
- _- GOPAY : 08xxxxxxxx_
- _- QRIS : https://bit.ly/3yy0qoZ_
+ _- SAWERIA [ALLPAY] : https://saweria.co/Zykuan
+ _- QRIS [ALLPAY] : https://telegra.ph/file/035cfa084b73c333edb1d.jpg
 `
 }
